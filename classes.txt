@@ -1,0 +1,10 @@
+anjing
+ayam
+bebek
+bus
+kucing
+lampu
+mobil
+sandal
+sepatu
+sepeda
